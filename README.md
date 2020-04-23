@@ -1,4 +1,4 @@
-# Date_Project_User_Behavior
+# Data_Project_User_Behavior
 Data_Analysis
 
 这篇文章尝试着对由阿里提供的user_behavior_data_on_taobao_app公开数据集进行分析，期望通过此次分析能通推动产品迭代、实现精准营销，提供定制服务，驱动产品决策等
